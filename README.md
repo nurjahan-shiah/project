@@ -39,7 +39,7 @@ The Employee Management System is a Java-based application designed to help busi
 5. **Save Employee List as PDF:**
    - Generate and save the list of employees as a PDF file.
   
-##Visual: https://drive.google.com/file/d/13FLgMPZJsFUR49X5GLgWQjaWu2N1yuiF/view?usp=sharing
+### Visual: https://drive.google.com/file/d/13FLgMPZJsFUR49X5GLgWQjaWu2N1yuiF/view?usp=sharing
 
 ## License
 
